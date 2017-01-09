@@ -1,2 +1,4 @@
 # pinecone
-General stuff
+RESOURCE
+https://github.com/vinta/awesome-python
+
