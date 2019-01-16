@@ -1,22 +1,25 @@
 # pinecone
 ### C++ general 
 [mithi's cpp resources](https://github.com/mithi/cpp-resources)
+
 [stackoverflow cpp book list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 
 ### Python 
-
 [vinta's awesome python](https://github.com/vinta/awesome-python)
 
 [AtsushiSakai's PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
 
 
-### Computer Science
-
+### Coding interview Resources
 [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
-### ML
+[Atsushi Saki's coding interview answers](https://github.com/AtsushiSakai/CodingInterviewCode)
 
+[mithi's algorithm-playground](https://github.com/mithi/algorithm-playground)
+
+
+### ML
 [mithi's AI playground](https://github.com/mithi/ai-playground/tree/master/pytorch-notebooks). Check out the notebooks for links to interesting repos
 
 [Layer visualisation notebook1](https://github.com/raghakot/keras-vis) [GradCam implementation](https://github.com/jacobgil/keras-grad-cam)
@@ -34,6 +37,8 @@
 [mithi's unscented Kalman Filter for lidar + radar](https://github.com/mithi/fusion-ukf)
 
 [mithi's robotics courseworks links](https://github.com/mithi/robotics-coursework)
+
+[Introduction to autonomous robots textbook + Atsushi Sakai's exercies](https://github.com/AtsushiSakai/Introduction-to-Autonomous-Robots)
 
 
 ### Pointclouds
