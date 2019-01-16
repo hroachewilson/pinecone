@@ -1,8 +1,6 @@
 # pinecone
 ### C++ general 
-
 [mithi's cpp resources](https://github.com/mithi/cpp-resources)
-
 [stackoverflow cpp book list](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 
