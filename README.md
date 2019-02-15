@@ -1,4 +1,7 @@
 # pinecone
+### ROS 2
+[Awesome-ros2](https://github.com/dejanpan/awesome-ros2)
+
 ### C++ general 
 [mithi's cpp resources](https://github.com/mithi/cpp-resources)
 
