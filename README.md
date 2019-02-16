@@ -2,6 +2,11 @@
 ### ROS 2
 [Awesome-ros2](https://github.com/dejanpan/awesome-ros2)
 
+
+## SLAM
+[awesome-visual-slam](https://github.com/MrGemy95/awesome-visual-slam)
+
+
 ### C++ general 
 [mithi's cpp resources](https://github.com/mithi/cpp-resources)
 
