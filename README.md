@@ -2,6 +2,12 @@
 ### ROS 2
 [Awesome-ros2](https://github.com/dejanpan/awesome-ros2)
 
+### Some awesome stuff
+[awesome awesome](https://github.com/sindresorhus/awesome#readme)
+[awesome books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
+[awesome productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
+[awesome tensorflow](https://github.com/jtoy/awesome-tensorflow#readme)
+
 
 ## SLAM
 [awesome-visual-slam](https://github.com/MrGemy95/awesome-visual-slam)
