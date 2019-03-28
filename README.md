@@ -4,8 +4,11 @@
 
 ### Some awesome stuff
 [awesome awesome](https://github.com/sindresorhus/awesome#readme)
+
 [awesome books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
+
 [awesome productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
+
 [awesome tensorflow](https://github.com/jtoy/awesome-tensorflow#readme)
 
 
