@@ -49,6 +49,8 @@
 
 [ai tools for buiness use](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-businesses-2-3-eea3ac374835)
 
+[monodepth2](https://github.com/nianticlabs/monodepth2)
+
 
 ### Robotics General
 [mithi's unscented Kalman Filter for lidar + radar](https://github.com/mithi/fusion-ukf)
@@ -56,7 +58,6 @@
 [mithi's robotics courseworks links](https://github.com/mithi/robotics-coursework)
 
 [Introduction to autonomous robots textbook + Atsushi Sakai's exercies](https://github.com/AtsushiSakai/Introduction-to-Autonomous-Robots)
-
 
 ### Pointclouds
 [mithi's pointcloud filter](https://github.com/mithi/point-cloud-filter)
