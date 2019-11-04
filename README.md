@@ -11,6 +11,7 @@
 
 [awesome tensorflow](https://github.com/jtoy/awesome-tensorflow#readme)
 
+[awesome robotic tooling](https://github.com/Ly0n/awesome-robotic-tooling)
 
 ## SLAM
 [awesome-visual-slam](https://github.com/MrGemy95/awesome-visual-slam)
