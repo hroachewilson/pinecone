@@ -1,4 +1,7 @@
 # pinecone
+### Static Analysis
+https://github.com/mre/awesome-static-analysis
+
 ### ROS 2
 [Awesome-ros2](https://github.com/dejanpan/awesome-ros2)
 
